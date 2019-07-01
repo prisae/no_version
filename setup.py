@@ -13,7 +13,6 @@ setup(
     packages=['no_version'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
-        'License :: OSI Approved :: CC0 1.0 Universal (CC0 1.0)',
         'Programming Language :: Python :: 3.7',
     ],
 )
